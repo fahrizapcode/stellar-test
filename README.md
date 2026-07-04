@@ -400,5 +400,7 @@ Fitur-fitur tersebut direncanakan pada tahap pengembangan berikutnya.
 
 - Integrasi Ekosistem Stellar
 
+![Wallet Connected](./Screenshot%202026-07-04%20165754.png)
+
 
 
